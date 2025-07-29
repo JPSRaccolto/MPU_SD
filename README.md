@@ -143,7 +143,7 @@ Contribuições são bem-vindas! Se você deseja contribuir, por favor, siga os 
 5.  Abra um Pull Request.
 
 ## 📽️ Demonstração em Vídeo
--   O vídeo de demonstração do projeto pode ser visualizado aqui: [Drive](https://drive.google.com/file/d/1LcwTsg2AsiAJPlvQJ6R4kndHqS9_Jhja/view?usp=sharing)
+-   O vídeo de demonstração do projeto pode ser visualizado aqui: [Drive](https://drive.google.com/file/d/1fAXjAtV8VQEIlPafBdFYFe1sstv0Tikc/view?usp=sharing)
 
 ## 💡 Considerações Finais
 Este projeto serve como uma base sólida para qualquer aplicação que exija o monitoramento e registro de dados inerciais. A combinação do MPU6050 com o armazenamento em SD o torna uma ferramenta versátil para engenheiros, estudantes e entusiastas. Futuras melhorias podem incluir a adição de um módulo RTC (Real-Time Clock) para timestamping preciso dos dados, comunicação sem fio para monitoramento remoto, ou a integração com outros sensores para uma análise de contexto mais rica.
