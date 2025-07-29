@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/f2a5c9b8-6208-4723-8f46-1d74be421827)
+
+
 # 📊 Sistema de Aquisição de Dados Inerciais com MPU6050 e Cartão SD
 
 ## 📑 Sumário
