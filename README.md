@@ -65,7 +65,9 @@ O sistema é ideal para aplicações que requerem o monitoramento e registro de 
 
 ## 📂 Estrutura do Repositório
 ├── mpu_SD/
+
 │   ├── Arquivos Salvos/    # Diretório para arquivos CSV de dados e scripts de plotagem
+
 │   │   ├── MPU_data1.csv
 │   │   └── plot_dados.py
 │   ├── CMakeLists.txt      # Arquivo de build CMake para o projeto principal
